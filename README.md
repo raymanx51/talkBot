@@ -1,2 +1,2 @@
 # talkBot
-A discord Bot that will have voice and chat implementations
+A discord Bot, built in node.js, that will have voice and chat implementations.
