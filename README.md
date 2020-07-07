@@ -1,2 +1,2 @@
 # talkBot
-A discord Bot that will have voice and chait implementations
+A discord Bot that will have voice and chat implementations
